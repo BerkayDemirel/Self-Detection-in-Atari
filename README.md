@@ -1,2 +1,2 @@
 # Self-Detection-in-Atari
-This project utilizes a blob detector, along with a self organizing map and action-observation analysis to detect the feature representing the agent on the screen.
+This project utilizes a blob detector, a SOM and action-observation analysis to detect the feature representing the agent on the screen. It is a work in progress and may involve different approaches from the ones stated.
